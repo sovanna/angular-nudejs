@@ -1,0 +1,26 @@
+{
+  "name": "Angular-NudeJS",
+  "version": "0.0.1",
+  "authors": [
+    "Sovanna <sovanna.hing@gmail.com>"
+  ],
+  "description": "Angular directive to use nude js nudity detection",
+  "main": "angular-nude.js",
+  "keywords": [
+    "angular",
+    "nude",
+    "nudity"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sovanna/angular-nudejs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nudejs": "~0.0.2"
+  }
+}
